@@ -15,6 +15,6 @@ A look at tree cover loss and subsequent CO2 emissions in the US in 2020
 2. California had the most tree cover loss in 2020 — assuming because of fires?
 3. California and Oregon had the most emissions in 2020
 
-### Data source
+### Data sources
 1. [Global Forest Watch](https://www.globalforestwatch.org/)
 2. [Energy News](https://energynews.us/2022/02/23/as-connecticut-falls-behind-on-emission-goals-activists-want-teeth-added-to-law/)
