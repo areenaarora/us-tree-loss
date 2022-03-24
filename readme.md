@@ -1,4 +1,4 @@
-## Headline
+## Potential headline
 A look at tree cover loss and subsequent CO2 emissions in the US in 2020
 
 ### Goal
