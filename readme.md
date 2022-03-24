@@ -17,4 +17,4 @@ A look at tree cover loss and subsequent CO2 emissions in the US in 2020
 
 ### Data sources
 1. [Global Forest Watch](https://www.globalforestwatch.org/)
-2. [Energy News](https://energynews.us/2022/02/23/as-connecticut-falls-behind-on-emission-goals-activists-want-teeth-added-to-law/)
+2. [Census](https://www.census.gov/geographies/reference-files/2010/geo/state-area.html) for each state's area
